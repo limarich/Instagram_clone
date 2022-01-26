@@ -25,7 +25,7 @@
 ###Tutorial
 ```bash
 #Clone o repositório
-https://github.com/limarich/Netflix_clone.git
+https://github.com/limarich/Instagram_clone.git
 ```
 > Para este projeto basta clonar o repositório e abrir o arquivo.html, que abrirá em seu navegador 
 
